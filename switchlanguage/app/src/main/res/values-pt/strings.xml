@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MulLanguage</string>
+    <string name="setting">configuração</string>
+    <string name="i_am_test_text">Eu sou texto de teste</string>
+</resources>

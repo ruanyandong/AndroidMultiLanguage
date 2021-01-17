@@ -1,0 +1,3 @@
+include ':LanguageSwitchSDK'
+include ':app'
+rootProject.name = "SwitchLanguage"

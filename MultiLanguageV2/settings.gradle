@@ -1,0 +1,3 @@
+include ':MulLanguageSDK'
+include ':app'
+rootProject.name = "MultiLanguages"
