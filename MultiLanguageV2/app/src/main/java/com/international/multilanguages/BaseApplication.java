@@ -17,8 +17,8 @@ public class BaseApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        // 在 Application 中初始化
-        MultiLanguages.init(this);
+        // 在 Application 中初始化,监听语言变化
+        MultiLanguages.register(this);
     }
 
     @Override

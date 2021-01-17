@@ -17,7 +17,7 @@ public final class MultiLanguages {
     /**
      * 初始化国际化框架
      */
-    public static void init(Application application) {
+    public static void register(Application application) {
         LanguagesChange.register(application);
     }
 
