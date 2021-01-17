@@ -1,0 +1,2 @@
+# AndroidMultiLanguage
+Android应用内多语言切换
